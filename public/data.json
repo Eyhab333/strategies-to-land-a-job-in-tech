@@ -16,7 +16,13 @@
               "title": "Github",
               "description": "strike 300 days, later contribute on open sources",
               "status": "",
-              "subtasks": []
+              "subtasks": [
+                {
+                  "title": "Blog posts",
+                  "isCompleted": false
+                }
+                
+              ]
             }
           ]
         },
